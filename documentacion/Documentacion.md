@@ -1,8 +1,5 @@
 # Microsoft SharePoint Online
 
-## Documentación Técnica
-
----
 
 # Descripción
 
