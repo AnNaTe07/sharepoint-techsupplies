@@ -79,7 +79,7 @@ Se desarrolló una estructura de sitios utilizando SharePoint Online para organi
 - Creación de subsitios.
 - Organización del contenido.
 - Configuración de navegación.
-- Compartición del sitio con distintos niveles de permisos.
+- Gestión de permisos con distintos niveles de permisos.
 
 ---
 
@@ -131,7 +131,7 @@ Se utilizó el **Term Store** para clasificar información mediante conjuntos de
 
 Se desarrolló un escenario de gestión para un laboratorio clínico utilizando listas relacionadas.
 
-Las implementaciones contemplaron información correspondiente a:
+La implementación contempló información correspondiente a:
 
 - Pacientes.
 - Bioquímicos.
