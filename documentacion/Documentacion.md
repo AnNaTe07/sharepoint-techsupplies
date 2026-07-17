@@ -246,20 +246,6 @@ Se desarrolló una página destinada a difundir un evento académico utilizando:
 
 # Capturas
 
-## Sitio principal
-
-Sitio principal creado en SharePoint como punto de partida para las distintas implementaciones realizadas.
-
-![Sitio principal](../assets/sitio-principal.png)
-
-
-## Subsitio
-
-Subsitio utilizado para organizar la información correspondiente al escenario de San Luis.
-
-![Subsitio](../assets/subsitio-san-luis.png)
-
-
 ## Biblioteca "Datos Geográficos"
 
 Biblioteca utilizada para almacenar documentos, imágenes y carpetas relacionadas con información geográfica de la provincia.
@@ -271,7 +257,7 @@ Biblioteca utilizada para almacenar documentos, imágenes y carpetas relacionada
 
 Lista personalizada utilizada para registrar departamentos de la provincia incorporando metadatos administrados.
 
-![Lista Departamentos]../(assets/lista-departamentos.png)
+![Lista Departamentos](../assets/lista-departamentos.png)
 
 
 ## Metadatos administrados
@@ -327,37 +313,21 @@ Vista organizada por la columna Materia para facilitar la navegación entre docu
 
 Vista configurada para visualizar los documentos según su fecha de publicación.
 
-![Vista calendario]../(assets/vista-calendario.png)
+![Vista calendario](../assets/vista-calendario.png)
 
 
 ## Personalización mediante JSON
 
 Aplicación de formato condicional utilizando JSON para resaltar visualmente el estado de los documentos.
 
-![Formato JSON]../(assets/formato-json.png)
+![Formato JSON](../assets/formato-json.png)
 
 
 ## Página moderna
 
 Página informativa desarrollada utilizando Web Parts, imágenes, documentos y vínculos.
 
-![Agencia de Viajes](assets/pagina-agencia-viajes.png)
----
-
-- Sitio principal.
-- Subsitio.
-- Biblioteca de documentos.
-- Lista personalizada.
-- Term Store.
-- Permisos personalizados.
-- Grupos de SharePoint.
-- Vista filtrada.
-- Vista agrupada.
-- Vista calendario.
-- Personalización mediante JSON.
-- Página moderna.
-- Página colaborativa.
-- Página de evento.
+![Agencia de Viajes](../assets/pagina-agencia-viajes.png)
 
 ---
 
