@@ -87,51 +87,17 @@ Durante el desarrollo se trabajó con la creación de sitios y subsitios, biblio
 
 # Capturas
 
-## Sitio principal
-
-![Sitio principal](assets/sitio-principal.png)
-
----
-
-## Biblioteca de documentos
-
-![Biblioteca](assets/biblioteca-datos-geograficos.png)
-
----
-
-## Lista personalizada
-
-![Lista](assets/lista-departamentos.png)
-
----
-
-## Metadatos administrados
-
-![Metadatos](assets/termstore-puntos-cardinales.png)
-
----
-
-## Gestión de permisos
-
-![Permisos](assets/permisos-personalizados.png)
-
----
-
-## Vistas personalizadas
-
-![Vistas](assets/vista-filtrada.png)
-
----
-
-## Formato JSON
-
-![JSON](assets/json-formato-columna.png)
-
----
-
 ## Página moderna
 
-![Página](assets/pagina-agencia-viajes.png)
+![Página moderna](assets/pagina-agencia-viajes.png)
+
+## Vista calendario
+
+![Vista calendario](assets/vista-calendario.png)
+
+## Formato de columnas con JSON
+
+![Formato JSON](assets/formato-json.png)
 
 ---
 
